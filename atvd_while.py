@@ -76,22 +76,43 @@ while i<=10:
     print(f"8 x {i} = {8*i}")
     print(f"9 x {i} = {9*i}")
     print(f"10 x {i} = {10*i}")
-    
-    
-    
     i+=1
 '''
-
+'''
 9
 i=0
-nome1=(input('digite um nome:'))
-nome2=(input('digite um nome:'))
-nome3=(input('digite um nome:'))
-nome4=(input('digite um nome:'))
-nome5=(input('digite um nome:'))
-while i<2:
-    lista=[nome1, nome2, nome3, nome4, nome5]
-    print (lista)
+while i<5=:
+nome=(input('digite um nome:'))
+    print (nome)
+    i+=1
+'''
+'''
+10
+soma=0
+i=0
+while i<5=:
+    numero=int(input('digite um numero'))
+    soma+=numero
+    i+=1
+    print("Soma =", soma)
+'''
+'''
+11
+i=5
+while i<=50:
+    i+=5
+    print (i)
+'''
+'''
+12
+
+
+
+
+
+
+
+
 
 
 

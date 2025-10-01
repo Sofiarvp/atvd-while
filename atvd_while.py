@@ -1,5 +1,3 @@
-
-    
 ''' comente bloco por bloco
 1
 i=1
@@ -98,14 +96,22 @@ while i<5=:
 '''
 '''
 11
-i=5
+i=0
 while i<=50:
     i+=5
     print (i)
 '''
 '''
 12
-
+i=0
+numero=float(input("digite um numero: "))
+while i<=numero:
+    print(i)
+    i+=1
+'''
+'''
+13
+i=0
 
 
 

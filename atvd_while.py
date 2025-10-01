@@ -64,7 +64,7 @@ while i<=10:
 8
 i=0
 numero=float(input('digite um numero:'))
-while i<10:
+while i<=10:
     print(f"0 x {i} = {0*i}")
     print(f"1 x {i} = {1*i}")
     print(f"2 x {i} = {2*i}")
@@ -73,9 +73,13 @@ while i<10:
     print(f"5 x {i} = {5*i}")
     print(f"6 x {i} = {6*i}")
     print(f"7 x {i} = {7*i}")
+    print(f"8 x {i} = {8*i}")
+    print(f"9 x {i} = {9*i}")
+    print(f"10 x {i} = {10*i}")
     
     
-    i+=i
+    
+    i+=1
 '''
 
 9
@@ -88,6 +92,7 @@ nome5=(input('digite um nome:'))
 while i<2:
     lista=[nome1, nome2, nome3, nome4, nome5]
     print (lista)
+
 
 
 
